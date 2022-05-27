@@ -1,0 +1,6 @@
+# Resources
+
+
+Azure Learning Paths Data & AI
+<https://docs.microsoft.com/en-us/learn/browse/?products=azure&roles=ai-engineer%2Cbusiness-owner%2Cdata-scientist&subjects=data-ai&resource_type=learning%20path>
+

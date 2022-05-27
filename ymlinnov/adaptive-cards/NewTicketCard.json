@@ -1,0 +1,173 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "Create a New Ticket"
+        },
+        {
+            "type": "Input.ChoiceSet",
+            "choices": [
+                {
+                    "title": "Daily Financial Report",
+                    "value": "Daily Financial Report"
+                },
+                {
+                    "title": "Night Audit",
+                    "value": "Night Audit"
+                },
+                {
+                    "title": "Night Audi Summary",
+                    "value": "Night Audit Summary"
+                },
+                {
+                    "title": "Other",
+                    "value": "Other"
+                },
+                {
+                    "title": "Reservation",
+                    "value": "Reservation"
+                }
+            ],
+            "placeholder": "Other",
+            "label": "Module",
+            "isRequired": true,
+            "id": "module",
+            "errorMessage": "Please select module"
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "Input.Date",
+                            "label": "Due Date",
+                            "isRequired": true,
+                            "errorMessage": "Please select ticket due date",
+                            "id": "datedue"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "Input.ChoiceSet",
+                            "choices": [
+                                {
+                                    "title": "High",
+                                    "value": "High"
+                                },
+                                {
+                                    "title": "Medium",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "title": "Low",
+                                    "value": "Low"
+                                }
+                            ],
+                            "placeholder": "--Please Select--",
+                            "isRequired": true,
+                            "label": "Priority",
+                            "errorMessage": "Please set ticket priority",
+                            "id": "priority"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "Input.ChoiceSet",
+                            "choices": [
+                                {
+                                    "title": "TODO: Dynamic Data Input",
+                                    "value": "TODO: Dynamic Data Input"
+                                },
+                                {
+                                    "title": "User 2",
+                                    "value": "User 2"
+                                },
+                                {
+                                    "title": "User 3",
+                                    "value": "User 3"
+                                }
+                            ],
+                            "placeholder": "--Please Select--",
+                            "isRequired": true,
+                            "label": "Assigned To",
+                            "errorMessage": "Please assign a person",
+                            "id": "assigned"
+                        }
+                    ]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "Input.Toggle",
+                            "title": "Affects Customer",
+                            "label": "Affects Customer",
+                            "value": "false",
+                            "id": "customerAffected"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Input.Text",
+            "placeholder": "Placeholder text",
+            "label": "Title",
+            "isRequired": true,
+            "errorMessage": "Please input ticket title",
+            "id": "title"
+        },
+        {
+            "type": "Input.Text",
+            "placeholder": "Placeholder text",
+            "id": "details",
+            "label": "Details",
+            "isRequired": true,
+            "errorMessage": "Please input ticket details"
+        },
+        {
+            "type": "Input.ChoiceSet",
+            "choices": [
+                {
+                    "title": "Choice 1",
+                    "value": "Choice 1"
+                }
+            ],
+            "placeholder": "TODO: Dynamic $User",
+            "id": "createdBy",
+            "label": "Created By",
+            "isRequired": true,
+            "value": "TODO: Dynamic $User",
+            "errorMessage": "Select User"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.4",
+    "actions": [
+        {
+            "type": "Action.OpenUrl",
+            "title": "Submit",
+			"url": "http://rpa-h.com/ticket/save"
+        }
+    ]
+}

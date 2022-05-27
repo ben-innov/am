@@ -1,0 +1,44 @@
+{
+    "title": "Ticket ID # NAS-28 - Missing Signature",
+    "description": "Guest's signature missing for paid out for Room #522 Hubbard Kiara",
+    "creator": {
+        "name": "Benjamin Chan",
+        "profileImage": "https://pbs.twimg.com/profile_images/3647943215/d7f12830b3c17a5a9e4afcc370e3a37e_400x400.jpeg"
+    },
+    "createdUtc": "2021-12-06T06:08:39Z",
+    "viewUrl": "https://adaptivecards.io",
+    "properties": [
+        {
+            "key": "Priority",
+            "value": "Medium"
+        },
+        {
+            "key": "Assigned To",
+            "value": " Dagmara Konieczna"
+        },
+        {
+            "key": "Owner",
+            "value": "Benjamin Chan"
+        },
+        {
+            "key": "Audit Date",
+            "value": "05/12/2021"
+        },
+        {
+            "key": "Report Type",
+            "value": "FO Paid Out "
+        },
+        {
+            "key": "Status",
+            "value": "Open"
+        },
+        {
+            "key": "Updated By",
+            "value": "Benjamin Chan"
+        },
+        {
+            "key": "Updated Date",
+            "value": "06/12/2021"
+        }
+    ]
+}
