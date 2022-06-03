@@ -1,0 +1,332 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+        {
+            "type": "ColumnSet",
+            "id": "1ede2aba-61b9-faa0-9895-9ed0c26b2e6f",
+            "columns": [
+                {
+                    "type": "Column",
+                    "id": "e5756242-0963-37a2-7cb4-4397886d60bb",
+                    "padding": "None",
+                    "width": "stretch",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "id": "20f3833e-0435-5c87-fad1-b528e0046fb6",
+                            "text": "New Ticket Assigned",
+                            "wrap": true,
+                            "size": "Medium",
+                            "weight": "Bolder",
+                            "color": "Attention"
+                        }
+                    ],
+                    "verticalContentAlignment": "Center"
+                },
+                {
+                    "type": "Column",
+                    "id": "74215a26-fa8b-e549-cced-7f99fd34a661",
+                    "padding": "None",
+                    "width": "auto",
+                    "items": [
+                        {
+                            "type": "Image",
+                            "id": "795047e2-e63e-6e14-07ba-5a3e13323dff",
+                            "url": "https://amdesigner.azurewebsites.net/samples/assets/PlaceHolder_Person.png",
+                            "size": "Small"
+                        }
+                    ],
+                    "horizontalAlignment": "Right"
+                }
+            ],
+            "padding": {
+                "top": "Small",
+                "bottom": "Small",
+                "left": "Default",
+                "right": "Small"
+            },
+            "style": "emphasis"
+        },
+        {
+            "type": "Container",
+            "id": "fbcee869-2754-287d-bb37-145a4ccd750b",
+            "padding": "Default",
+            "spacing": "None",
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "id": "44906797-222f-9fe2-0b7a-e3ee21c6e380",
+                    "text": "Ticket ID # NAS-28 - Missing Signature ",
+                    "wrap": true,
+                    "weight": "Bolder",
+                    "size": "Large"
+                },
+                {
+                    "type": "TextBlock",
+                    "id": "f7abdf1a-3cce-2159-28ef-f2f362ec937e",
+                    "wrap": true,
+                    "text": "Guest's signature missing for paid out for Room #522 Hubbard Kiara"
+                },
+                {
+                    "type": "FactSet",
+                    "id": "01afbb8f-9c1d-c9f9-b710-8d0706fab9ac",
+                    "facts": [
+                        {
+                            "title": "Priority",
+                            "value": "Medium"
+                        },
+                        {
+                            "title": "Assigned To",
+                            "value": "Dagmara Konieczna"
+                        },
+                        {
+                            "title": "Owner",
+                            "value": "Benjamin Chan"
+                        },
+                        {
+                            "title": "Audit Date",
+                            "value": "05/12/2021"
+                        },
+                        {
+                            "title": "Report Type",
+                            "value": "FO Paid Out"
+                        },
+                        {
+                            "title": "Status",
+                            "value": "Open"
+                        },
+                        {
+                            "title": "Updated By",
+                            "value": "Benjamin Chan"
+                        },
+                        {
+                            "title": "Updated Date",
+                            "value": "06/12/2021"
+                        }
+                    ]
+                },
+                {
+                    "type": "ActionSet",
+                    "id": "c8a5ba7e-7ec6-53ae-79da-0cfb952a527e",
+                    "actions": [
+                        {
+                            "type": "Action.ShowCard",
+                            "id": "c5884df0-9c4d-aef4-9bf2-0ac49d064f75",
+                            "title": "Reply",
+                            "card": {
+                                "type": "AdaptiveCard",
+                                "padding": "Default",
+                                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                "body": [
+                                    {
+                                        "type": "Container",
+                                        "id": "a387183c-7206-2093-69ad-c0e91f5f2161",
+                                        "padding": "None",
+                                        "items": [
+                                            {
+                                                "type": "Input.Text",
+                                                "id": "2fe376a8-deca-fd39-6800-3b6a7e259584",
+                                                "placeholder": "Enter text here",
+                                                "isMultiline": true,
+                                                "isRequired": true
+                                            },
+                                            {
+                                                "type": "ActionSet",
+                                                "id": "52125df8-398a-879b-c95f-331118889d0a",
+                                                "actions": [
+                                                    {
+                                                        "type": "Action.Http",
+                                                        "id": "64ee0862-b8e4-9100-7dd4-b59fbe611af4",
+                                                        "title": "Submit",
+                                                        "method": "POST",
+                                                        "url": "https://www.microsoft.com",
+                                                        "body": "{Priority: {{Priority.value}}}"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "isPrimary": true,
+                            "style": "positive"
+                        },
+                        {
+                            "type": "Action.ShowCard",
+                            "id": "f8541cdd-a532-3b7f-fca8-713b74529057",
+                            "title": "Re-assign",
+                            "card": {
+                                "type": "AdaptiveCard",
+                                "padding": "Default",
+                                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                "body": [
+                                    {
+                                        "type": "Container",
+                                        "id": "d2a2f235-2cf2-90c1-dab4-4a28dbea74d8",
+                                        "padding": "None",
+                                        "items": [
+                                            {
+                                                "type": "Input.ChoiceSet",
+                                                "id": "Assignee",
+                                                "placeholder": "Choose an assignee",
+                                                "label": "Choose an assignee for the task.",
+                                                "choices": [
+                                                    {
+                                                        "title": "kat.larrson@contoso.com",
+                                                        "value": "kat.larrson@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "daisy.philip@contoso.com",
+                                                        "value": "daisy.philip@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "miguel.garcia@contoso.com",
+                                                        "value": "miguel.garcia@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "collin.ballinger@contoso.com",
+                                                        "value": "collin.ballinger@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "elvia.atkins@contoso.com",
+                                                        "value": "elvia.atkins@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "lydia.bauer@contoso.com",
+                                                        "value": "lydia.bauer@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "henry.brill@contoso.com",
+                                                        "value": "henry.brill@contoso.com"
+                                                    },
+                                                    {
+                                                        "title": "mona.kane@contoso.com",
+                                                        "value": "mona.kane@contoso.com"
+                                                    }
+                                                ],
+                                                "style": "expanded",
+                                                "isRequired": true
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "Container",
+                                        "id": "6ba7238e-025b-e060-cf41-b4732848967b",
+                                        "padding": "None",
+                                        "items": [
+                                            {
+                                                "type": "Input.ChoiceSet",
+                                                "id": "Priority",
+                                                "placeholder": "Select a Priority",
+                                                "label": "Select a Priority for the task.",
+                                                "choices": [
+                                                    {
+                                                        "title": "Low",
+                                                        "value": "Low"
+                                                    },
+                                                    {
+                                                        "title": "Medium",
+                                                        "value": "Medium"
+                                                    },
+                                                    {
+                                                        "title": "High",
+                                                        "value": "High"
+                                                    },
+                                                    {
+                                                        "title": "Urgent",
+                                                        "value": "Urgent"
+                                                    }
+                                                ],
+                                                "style": "expanded",
+                                                "isRequired": true
+                                            },
+                                            {
+                                                "type": "ActionSet",
+                                                "id": "827ea28d-3d41-91c6-cf84-30b74244afe8",
+                                                "actions": [
+                                                    {
+                                                        "type": "Action.Http",
+                                                        "id": "d499a757-ee04-ee57-ef75-4e3f01c536d1",
+                                                        "title": "Submit",
+                                                        "method": "POST",
+                                                        "url": "https://www.microsoft.com",
+                                                        "body": "{Priority: {{Priority.value}}}"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Action.ShowCard",
+                            "id": "6698711a-d6d4-e3a1-9f8b-1042852d0b25",
+                            "title": "Resolve",
+                            "card": {
+                                "type": "AdaptiveCard",
+                                "padding": "Default",
+                                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                                "body": [
+                                    {
+                                        "type": "Container",
+                                        "id": "0a6bb3f7-4f8c-1014-6c4b-f2c71bd09f5b",
+                                        "padding": "None",
+                                        "items": [
+                                            {
+                                                "type": "Input.Text",
+                                                "id": "914daa8b-a380-1dfa-4252-1d4fae444045",
+                                                "placeholder": "Enter text here",
+                                                "isRequired": true,
+                                                "isMultiline": true
+                                            },
+                                            {
+                                                "type": "ActionSet",
+                                                "id": "6bd286a1-58d1-ca32-6fcb-66ac9d836635",
+                                                "actions": [
+                                                    {
+                                                        "type": "Action.Http",
+                                                        "id": "0981e344-cf91-4622-ee62-3ed507b4c9c4",
+                                                        "title": "Submit",
+                                                        "url": "https://www.microsoft.com",
+                                                        "method": "POST"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "77102c5d-fde2-e573-4ea5-66022d646d64",
+            "padding": {
+                "top": "Small",
+                "bottom": "Small",
+                "left": "Small",
+                "right": "Default"
+            },
+            "spacing": "None",
+            "separator": true,
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "id": "42654e7e-cece-b419-867a-3e3ef4076870",
+                    "text": "[View in Report ARIEL portal](https://r-1-staging.rpa-h.com/Reports/ReportDetails?reportrunID=5966434B326D494D6461493D&isWActionsStr=434277493647496C4D795137344E446B5532515332513D3D&ticketToken=465A6B78447031484F425A493376654563516D7167513D3D&tokenID=463170756C4943433345303D)",
+                    "wrap": true,
+                    "color": "Accent",
+                    "horizontalAlignment": "Right"
+                }
+            ],
+            "horizontalAlignment": "Right"
+        }
+    ],
+    "padding": "None"
+}

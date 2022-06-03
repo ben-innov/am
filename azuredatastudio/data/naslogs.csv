@@ -1,0 +1,1062 @@
+Username,User_ID,NASReport_ID,Dated,Action,IP_Address,A_NAS_ID,Browser_Used,FullName
+NULL,3,1,2021-12-09 02:49:14.000,Created the summary report.,180.191.65.36,1,Chrome,John Christopher Lim
+NULL,5,2,2021-12-10 05:37:18.000,Created the summary report.,59.100.129.30,2,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:38:23.000,Edited Credit Limit details.,59.100.129.30,3,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:38:56.000,Commented `#1013 Anthony Raffa - A3 ALL Gold Regular Member. No follow-up required.` in Report 01. Credit Limit Report.,59.100.129.30,4,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:39:09.000,Commented `Paid Out: Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,5,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:39:20.000,Edited Adjustment and Correction details.,59.100.129.30,6,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:39:23.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,7,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:40:05.000,Commented `#666793 & #666805 Ben Monaghan checked in after roll at 4am on 10/12/21` in Report 04. No Show Rooms.,59.100.129.30,8,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:40:25.000,Commented `14 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,9,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:41:23.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,10,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:41:35.000,Commented `DAF Night: 1` in Report 07. Rate Check Report.,59.100.129.30,11,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:41:42.000,Edited PM/PX Accounts details.,59.100.129.30,12,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:42:00.000,Commented `4 x Credit & 2 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,13,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:42:04.000,Approved report 08.1. NA16.,59.100.129.30,14,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:42:35.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,15,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:42:38.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,16,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:42:40.000,Approved report 11. CC Surcharge Report.,59.100.129.30,17,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:43:04.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,18,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:43:31.000,"Commented `Total Revenue: $13815
+Occupancy: 28.9%
+ADR: $168.61` in Report 13. DMR.",59.100.129.30,19,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:43:56.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,20,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:43:57.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,21,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:44:15.000,Approved report 15. Checklists.,59.100.129.30,22,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:45:12.000,Commented `1 x Manual Transaction by AM Kitti as points did not get credited automatically by the system` in Report 16. Loyalty Points Audit.,59.100.129.30,23,Chrome,Benjamin Chan
+NULL,5,2,2021-12-10 05:45:20.000,Submitted the summary report.,59.100.129.30,24,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 05:04:38.000,Created the summary report.,59.100.129.30,25,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:38:03.000,Edited Credit Limit details.,59.100.129.30,26,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:40:13.000,Commented `#910 Adam Rosenbaum A2 ALL silver member & #1013 Anthony Raffa A3 ALL Gold Regular Member. No follow up required. #901 Mathew Dickinson (C/O 12/12) covering #902 Ben Smithers - CC Declined. AM to follow up with accommodation payment` in Report 01. Credit Limit Report.,59.100.129.30,27,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:41:24.000,Commented `#910 Adam Rosenbaum A2 ALL silver member & #1013 Anthony Raffa A3 ALL Gold Regular Member. No follow up required. #901 Mathew Dickinson (C/O 12/12) covering #902 Ben Smithers current balance $697 - CC Declined. AM to follow up with accommodation payment` in Report 01. Credit Limit Report.,59.100.129.30,28,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:41:38.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,29,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:41:47.000,Edited Adjustment and Correction details.,59.100.129.30,30,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:41:49.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,31,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:42:06.000,Commented `#662826 Sharon Holt` in Report 04. No Show Rooms.,59.100.129.30,32,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:42:38.000,Commented `2 x Leave Rooms (#318 & #715) & 1 x Maintenance (#326)` in Report 05. Out of Order/ Service Room.,59.100.129.30,33,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:42:56.000,Approved report 06. Complimentary Room Report.,59.100.129.30,34,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:43:03.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,35,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:43:10.000,Commented `DAF Night: 1` in Report 07. Rate Check Report.,59.100.129.30,36,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:43:15.000,Edited PM/PX Accounts details.,59.100.129.30,37,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:43:33.000,Commented `4 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,38,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:43:53.000,Approved report 08.1. NA16.,59.100.129.30,39,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:44:42.000,Commented `1 x Amex Transaction of $344 for Henry T H Lim will appear in Ogone on 11/12/21` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,40,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:45:05.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,41,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:45:08.000,Approved report 11. CC Surcharge Report.,59.100.129.30,42,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:45:28.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,43,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:46:12.000,"Commented `Total Revenue: $35201 
+Occupancy: 66%
+ADR: $183.78` in Report 13. DMR.",59.100.129.30,44,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:46:47.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,45,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:46:50.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,46,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:47:06.000,Approved report 15. Checklists.,59.100.129.30,47,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:47:38.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,48,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:47:46.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,49,Chrome,Benjamin Chan
+NULL,5,3,2021-12-11 06:47:49.000,Submitted the summary report.,59.100.129.30,50,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 06:23:09.000,Created the summary report.,59.100.129.30,51,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:20:28.000,Edited Credit Limit details.,59.100.129.30,52,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:22:16.000,Commented `#1013 Anthony Raffa - A3 ALL Gold Regular Member. No follow up required.` in Report 01. Credit Limit Report.,59.100.129.30,53,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:22:26.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,54,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:22:42.000,Edited Adjustment and Correction details.,59.100.129.30,55,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:23:10.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,56,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:23:27.000,Edited No Show Rooms details.,59.100.129.30,57,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:24:21.000,Commented `No Show with deposit moved to PM #9007 Phoung Dang` in Report 04. No Show Rooms.,59.100.129.30,58,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:24:53.000,Commented `2 x Isolation leave rooms (#318 & #715)` in Report 05. Out of Order/ Service Room.,59.100.129.30,59,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:24:57.000,Approved report 06. Complimentary Room Report.,59.100.129.30,60,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:25:30.000,Commented `DAF Night: 3` in Report 07. Rate Check Report.,59.100.129.30,61,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:25:36.000,Edited PM/PX Accounts details.,59.100.129.30,62,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:25:48.000,Commented `4 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,63,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:26:07.000,Approved report 08.1. NA16.,59.100.129.30,64,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:26:18.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,65,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:26:50.000,Commented `1 x Amex Transaction of $344 appearing on Opera 10/12/21` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,66,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:27:13.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,67,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:27:14.000,Approved report 11. CC Surcharge Report.,59.100.129.30,68,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:29:33.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,69,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:30:21.000,"Commented `Total Revenue: $56337
+Occupancy: 78.50%
+ADR: $249.01` in Report 13. DMR.",59.100.129.30,70,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:30:55.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,71,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:31:52.000,Approved report 15. Checklists.,59.100.129.30,72,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:34:18.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,73,Chrome,Benjamin Chan
+NULL,5,4,2021-12-12 07:34:24.000,Submitted the summary report.,59.100.129.30,74,Chrome,Benjamin Chan
+NULL,10,5,2021-12-13 05:20:45.000,Created the summary report.,59.100.129.30,75,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:20:57.000,Approved report 01. Credit Limit Report.,59.100.129.30,76,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:30:47.000,Edited Adjustment and Correction details.,59.100.129.30,77,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:31:32.000,Commented `Please remind all GSA to create adj. report and also get it signed by DM and by GSA` in Report 03. Adjustment & Corrections.,59.100.129.30,78,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:31:48.000,Approved report 04. No Show Rooms.,59.100.129.30,79,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:08.000,Commented `No Show have been flagged with Res` in Report 04. No Show Rooms.,59.100.129.30,80,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:12.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,81,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:14.000,Approved report 06. Complimentary Room Report.,59.100.129.30,82,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:17.000,Approved report 07. Rate Check Report.,59.100.129.30,83,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:21.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,84,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:25.000,Approved report 08.1. NA16.,59.100.129.30,85,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:32:27.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,86,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:33:20.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,87,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:33:22.000,Approved report 11. CC Surcharge Report.,59.100.129.30,88,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:33:43.000,Approved report 12. DM Float Log.,59.100.129.30,89,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:34:05.000,Approved report 13. DMR.,59.100.129.30,90,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:07.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,91,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:11.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,92,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:15.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,93,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:16.000,Approved report 15. Checklists.,59.100.129.30,94,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:16.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,95,Chrome,Patrick Padilla
+NULL,10,5,2021-12-13 05:37:18.000,Submitted the summary report.,59.100.129.30,96,Chrome,Patrick Padilla
+NULL,14,6,2021-12-13 14:59:01.000,Created the summary report.,112.200.198.1,97,Chrome,Alan Jude Samonte
+NULL,3,7,2021-12-14 04:55:19.000,Created the summary report.,180.191.65.36,98,Chrome,John Christopher Lim
+NULL,10,8,2021-12-14 05:09:06.000,Created the summary report.,59.100.129.30,99,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:09:14.000,Approved report 01. Credit Limit Report.,59.100.129.30,100,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:09:15.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,101,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:09:54.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,102,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:06.000,Edited Adjustment and Correction details.,59.100.129.30,103,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:09.000,Approved report 04. No Show Rooms.,59.100.129.30,104,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:12.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,105,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:15.000,Approved report 06. Complimentary Room Report.,59.100.129.30,106,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:30.000,Approved report 07. Rate Check Report.,59.100.129.30,107,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:32.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,108,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:10:55.000,Approved report 08.1. NA16.,59.100.129.30,109,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:11:11.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,110,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:11:29.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,111,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:12:56.000,Approved report 11. CC Surcharge Report.,59.100.129.30,112,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:14:01.000,Approved report 12. DM Float Log.,59.100.129.30,113,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:14:02.000,Approved report 13. DMR.,59.100.129.30,114,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:14:28.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,115,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:15:11.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,116,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:15:33.000,Approved report 15. Checklists.,59.100.129.30,117,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:15:52.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,118,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:16:27.000,"Commented `Credit - 5
+Debit - 3` in Report 08. PM/ PX Accounts.",59.100.129.30,119,Chrome,Patrick Padilla
+NULL,10,8,2021-12-14 05:22:39.000,Submitted the summary report.,59.100.129.30,120,Chrome,Patrick Padilla
+NULL,10,5,2021-12-14 05:39:50.000,Opened a Ticket for 14. F & B Comp. & Void Audit,59.100.129.30,121,Chrome,Patrick Padilla
+NULL,10,5,2021-12-14 05:43:11.000,Opened a Ticket for 14. F & B Comp. & Void Audit,59.100.129.30,122,Chrome,Patrick Padilla
+NULL,5,9,2021-12-15 04:20:25.000,Created the summary report.,59.100.129.30,123,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:29:44.000,Approved report 01. Credit Limit Report.,59.100.129.30,124,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:29:58.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,125,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:30:10.000,Edited Adjustment and Correction details.,59.100.129.30,126,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:30:37.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,127,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:31:11.000,Commented `#657289 Tiia Pulkkinen` in Report 04. No Show Rooms.,59.100.129.30,128,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:31:27.000,Commented `142 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,129,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:31:59.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,130,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:32:10.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,131,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:32:19.000,Edited PM/PX Accounts details.,59.100.129.30,132,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:32:42.000,Commented `5 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,133,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:32:48.000,Approved report 08.1. NA16.,59.100.129.30,134,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:33:09.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,135,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:33:10.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,136,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:33:32.000,Approved report 11. CC Surcharge Report.,59.100.129.30,137,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:33:43.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,138,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:36:09.000,"Commented `Total Revenue: $9016
+Occupancy: 22.7%
+ADR: $143.79` in Report 13. DMR.",59.100.129.30,139,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:37:13.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,140,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:37:37.000,Approved report 15. Checklists.,59.100.129.30,141,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:38:10.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,142,Chrome,Benjamin Chan
+NULL,5,9,2021-12-15 04:38:37.000,Submitted the summary report.,59.100.129.30,143,Chrome,Benjamin Chan
+NULL,21,10,2021-12-15 04:58:22.000,Created the summary report.,59.100.129.30,144,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:02:15.000,"Commented `All clear.
+All charges accounts with AOF 
+Accor + Accor Plus member ` in Report 01. Credit Limit Report.",59.100.129.30,145,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:02:44.000,Commented `No FO Paidouts` in Report 02. Front Office Paid Out Report.,59.100.129.30,146,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:03:07.000,Edited Adjustment and Correction details.,59.100.129.30,147,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:03:45.000,Commented `Missing Rasa's correction forms ` in Report 03. Adjustment & Corrections.,59.100.129.30,148,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:05:04.000,Edited No Show Rooms details.,59.100.129.30,149,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:05:26.000,Commented `Ticket raised to Group Executive` in Report 04. No Show Rooms.,59.100.129.30,150,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:06:39.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,151,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:06:50.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,152,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:07:40.000,"Commented `1 DAF Night
+All rates were correct  ` in Report 07. Rate Check Report.",59.100.129.30,153,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:07:51.000,"Commented `1 DAF Night.
+All rates were correct  ` in Report 07. Rate Check Report.",59.100.129.30,154,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:08:03.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,155,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:09:09.000,Approved report 08.1. NA16.,59.100.129.30,156,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:09:28.000,Commented `No Transactions` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,157,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:09:38.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,158,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:09:48.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,159,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:10:02.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,160,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:15:15.000,Approved report 13. DMR.,59.100.129.30,161,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:15:43.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,162,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:15:53.000,Commented `No missing dockets` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,163,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:17:27.000,Commented `Reception morning missing ` in Report 15. Checklists.,59.100.129.30,164,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:19:10.000,"Commented `1 - Manual transaction, credited by DM  ` in Report 16. Loyalty Points Audit.",59.100.129.30,165,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 05:24:53.000,Commented `Pls see attached file for individual comments ` in Report 08.1. NA16.,59.100.129.30,166,Chrome,Rolando Vicencio
+NULL,21,10,2021-12-15 06:25:25.000,Submitted the summary report.,59.100.129.30,167,Chrome,Rolando Vicencio
+NULL,5,11,2021-12-16 02:43:39.000,Created the summary report.,59.100.129.30,168,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:52:36.000,Approved report 01. Credit Limit Report.,59.100.129.30,169,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:52:44.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,170,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:53:08.000,Edited Adjustment and Correction details.,59.100.129.30,171,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:54:06.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,172,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:54:28.000,Edited No Show Rooms details.,59.100.129.30,173,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:54:53.000,Commented `No Show with deposit moved to PM #9008 Andrew Chubb` in Report 04. No Show Rooms.,59.100.129.30,174,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:55:38.000,Opened a Ticket for 04. No Show Rooms,59.100.129.30,175,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:56:10.000,Commented `133 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,176,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:56:20.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,177,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:56:48.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,178,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:56:59.000,Edited PM/PX Accounts details.,59.100.129.30,179,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:16.000,Commented `5 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,180,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:20.000,Approved report 08.1. NA16.,59.100.129.30,181,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:39.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,182,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:45.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,183,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:46.000,Approved report 11. CC Surcharge Report.,59.100.129.30,184,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:57:55.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,185,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:58:56.000,"Commented `Total Revenue: $6001 
+Occupancy: 18%
+ADR: $118.88` in Report 13. DMR.",59.100.129.30,186,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:59:15.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,187,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 02:59:34.000,Approved report 15. Checklists.,59.100.129.30,188,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 03:00:05.000,Commented `No manual transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,189,Chrome,Benjamin Chan
+NULL,5,11,2021-12-16 03:00:15.000,Submitted the summary report.,59.100.129.30,190,Chrome,Benjamin Chan
+NULL,21,12,2021-12-16 05:04:27.000,Created the summary report.,59.100.129.30,191,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:06:15.000,"Commented `626 - No CC details for incidentals, raised ticket to AFOM to follow-up` in Report 01. Credit Limit Report.",59.100.129.30,192,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:06:30.000,Commented `No FO Paidout` in Report 02. Front Office Paid Out Report.,59.100.129.30,193,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:06:56.000,Edited Adjustment and Correction details.,59.100.129.30,194,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:07:11.000,Edited No Show Rooms details.,59.100.129.30,195,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:07:19.000,Edited Adjustment and Correction details.,59.100.129.30,196,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:09:16.000,Opened a Ticket for 04. No Show Rooms,59.100.129.30,197,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:09:42.000,Commented `Raised ticket to RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,198,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:09:55.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,199,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:10:06.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,200,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:10:35.000,Commented `All rates are correct.` in Report 07. Rate Check Report.,59.100.129.30,201,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:10:48.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,202,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:12:23.000,Commented `Pls see attached report for individual comments` in Report 08.1. NA16.,59.100.129.30,203,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:12:54.000,Commented `No transactions` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,204,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:13:35.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,205,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:13:47.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,206,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:14:04.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,207,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:14:37.000,Approved report 13. DMR.,59.100.129.30,208,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:15:41.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,209,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:15:54.000,Commented `No missing dockets` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,210,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:16:05.000,Approved report 15. Checklists.,59.100.129.30,211,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:17:24.000,Commented `No manual transactions` in Report 16. Loyalty Points Audit.,59.100.129.30,212,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:18:37.000,"Commented `8 DAF Night
+All rates are correct.` in Report 07. Rate Check Report.",59.100.129.30,213,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:18:48.000,"Commented `8 DAF Night.
+All rates are correct.` in Report 07. Rate Check Report.",59.100.129.30,214,Chrome,Rolando Vicencio
+NULL,21,12,2021-12-16 05:20:37.000,Submitted the summary report.,59.100.129.30,215,Chrome,Rolando Vicencio
+NULL,19,10,2021-12-16 17:44:43.000,Approved report 01. Credit Limit Report.,59.100.129.30,216,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:44:45.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,217,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:12.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,218,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:13.000,Approved report 06. Complimentary Room Report.,59.100.129.30,219,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:14.000,Approved report 07. Rate Check Report.,59.100.129.30,220,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:17.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,221,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:21.000,Approved report 08.1. NA16.,59.100.129.30,222,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:22.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,223,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:23.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,224,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:26.000,Approved report 11. CC Surcharge Report.,59.100.129.30,225,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:26.000,Approved report 12. DM Float Log.,59.100.129.30,226,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:28.000,Approved report 13. DMR.,59.100.129.30,227,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:32.000,Approved report 15. Checklists.,59.100.129.30,228,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:45:33.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,229,Chrome,Laura Beck
+NULL,19,10,2021-12-16 17:46:05.000,Approved report 04. No Show Rooms.,59.100.129.30,230,Chrome,Laura Beck
+NULL,19,10,2021-12-16 18:05:20.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,231,Chrome,Laura Beck
+NULL,19,10,2021-12-16 18:05:23.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,232,Chrome,Laura Beck
+NULL,19,10,2021-12-16 18:05:35.000,Approved the summary report.,59.100.129.30,233,Chrome,Laura Beck
+NULL,5,13,2021-12-17 03:29:52.000,Created the summary report.,59.100.129.30,234,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:30:12.000,Approved report 01. Credit Limit Report.,59.100.129.30,235,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:30:31.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,236,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:30:41.000,Edited Adjustment and Correction details.,59.100.129.30,237,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:31:11.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,238,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:31:38.000,Commented `#665574 Matthew Terrey` in Report 04. No Show Rooms.,59.100.129.30,239,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:32:04.000,Commented `102 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,240,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:32:30.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,241,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:32:47.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,242,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:32:57.000,Edited PM/PX Accounts details.,59.100.129.30,243,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:33:14.000,Commented `7 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,244,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:33:40.000,Approved report 08.1. NA16.,59.100.129.30,245,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:33:52.000,Edited OGone Deposit Posting details.,59.100.129.30,246,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:35:15.000,"Commented `1 x Ogone Visa Transaction missing in Opera. Booking indicated as ""Rejected"" in RESAWEB. Email sent to Finance & Reservations.` in Report 09. Ogone Deposit Posting Report.",59.100.129.30,247,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:37:07.000,Opened a Ticket for 09. Ogone Deposit Posting Report,59.100.129.30,248,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:37:34.000,Opened a Ticket for 09. Ogone Deposit Posting Report,59.100.129.30,249,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:37:39.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,250,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:37:41.000,Approved report 11. CC Surcharge Report.,59.100.129.30,251,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:38:04.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,252,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:38:37.000,"Commented `1 x Ogone Visa Transaction missing in Opera. Booking status indicated as ""Rejected"" in RESAWEB. Email sent to Finance & Reservations.` in Report 09. Ogone Deposit Posting Report.",59.100.129.30,253,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:39:09.000,"Commented `Total Revenue: $7816
+Occupancy: 17.2%
+ADR: $141.73` in Report 13. DMR.",59.100.129.30,254,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:39:15.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,255,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:39:33.000,Approved report 15. Checklists.,59.100.129.30,256,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:40:13.000,Commented `No manual transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,257,Chrome,Benjamin Chan
+NULL,5,13,2021-12-17 03:40:59.000,Submitted the summary report.,59.100.129.30,258,Chrome,Benjamin Chan
+NULL,21,14,2021-12-17 04:35:13.000,Created the summary report.,59.100.129.30,259,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:15:11.000,Commented `All Clear` in Report 01. Credit Limit Report.,59.100.129.30,260,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:15:47.000,Commented `No FO Paidout` in Report 02. Front Office Paid Out Report.,59.100.129.30,261,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:16:18.000,Edited Adjustment and Correction details.,59.100.129.30,262,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:16:26.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,263,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:18:25.000,Commented `Ticket raised for RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,264,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:19:20.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,265,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:19:33.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,266,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:20:21.000,"Commented `1 DAF Night.
+All rates are correct` in Report 07. Rate Check Report.",59.100.129.30,267,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:20:32.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,268,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:20:45.000,Approved report 08.1. NA16.,59.100.129.30,269,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:22:04.000,Commented `Ticket raised for FIN to double check ` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,270,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:24:11.000,Opened a Ticket for 09. Ogone Deposit Posting Report,59.100.129.30,271,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:24:24.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,272,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:25:22.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,273,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:26:35.000,Commented `With change order $2367.85 ` in Report 12. DM Float Log.,59.100.129.30,274,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:27:20.000,Approved report 13. DMR.,59.100.129.30,275,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:29:28.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,276,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:30:11.000,Commented `Ticket raised for F&B to locate docket` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,277,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:36:28.000,Opened a Ticket for 14. F & B Comp. & Void Audit,59.100.129.30,278,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:37:22.000,Approved report 15. Checklists.,59.100.129.30,279,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:42:42.000,Commented `5 Manual transactions credited by DM ` in Report 16. Loyalty Points Audit.,59.100.129.30,280,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:46:40.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,281,Chrome,Rolando Vicencio
+NULL,21,14,2021-12-17 05:47:15.000,Submitted the summary report.,59.100.129.30,282,Chrome,Rolando Vicencio
+NULL,19,12,2021-12-17 13:13:53.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,283,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:13:55.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,284,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:13:57.000,Approved report 04. No Show Rooms.,59.100.129.30,285,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:13:59.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,286,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:13:59.000,Approved report 06. Complimentary Room Report.,59.100.129.30,287,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:01.000,Approved report 07. Rate Check Report.,59.100.129.30,288,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:03.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,289,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:05.000,Approved report 08.1. NA16.,59.100.129.30,290,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:07.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,291,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:09.000,Approved report 11. CC Surcharge Report.,59.100.129.30,292,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:10.000,Approved report 12. DM Float Log.,59.100.129.30,293,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:11.000,Approved report 13. DMR.,59.100.129.30,294,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:12.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,295,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:13.000,Approved report 15. Checklists.,59.100.129.30,296,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:14:14.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,297,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:16:43.000,Approved report 01. Credit Limit Report.,59.100.129.30,298,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:18:52.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,299,Chrome,Laura Beck
+NULL,19,12,2021-12-17 13:18:55.000,Approved the summary report.,59.100.129.30,300,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:09.000,Approved report 01. Credit Limit Report.,59.100.129.30,301,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:13.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,302,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:17.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,303,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:19.000,Approved report 04. No Show Rooms.,59.100.129.30,304,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:21.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,305,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:22.000,Approved report 06. Complimentary Room Report.,59.100.129.30,306,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:25.000,Approved report 07. Rate Check Report.,59.100.129.30,307,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:28.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,308,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:31.000,Approved report 08.1. NA16.,59.100.129.30,309,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:34.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,310,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:35.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,311,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:36.000,Approved report 11. CC Surcharge Report.,59.100.129.30,312,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:38.000,Approved report 12. DM Float Log.,59.100.129.30,313,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:39.000,Approved report 13. DMR.,59.100.129.30,314,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:41.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,315,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:41.000,Approved report 15. Checklists.,59.100.129.30,316,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:21:42.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,317,Chrome,Laura Beck
+NULL,19,14,2021-12-17 13:22:12.000,Approved the summary report.,59.100.129.30,318,Chrome,Laura Beck
+NULL,9,10,2021-12-17 13:33:00.000,Approved report 01. Credit Limit Report.,59.100.129.30,319,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:34:34.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,320,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:34:35.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,321,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:35:08.000,Approved report 04. No Show Rooms.,59.100.129.30,322,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:35:18.000,Approved report 06. Complimentary Room Report.,59.100.129.30,323,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:35:41.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,324,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:35:53.000,Approved report 07. Rate Check Report.,59.100.129.30,325,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:35:54.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,326,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:36:01.000,Approved report 08.1. NA16.,59.100.129.30,327,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:36:35.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,328,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:37:14.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,329,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:37:44.000,Approved report 11. CC Surcharge Report.,59.100.129.30,330,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:38:05.000,Approved report 12. DM Float Log.,59.100.129.30,331,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:38:07.000,Approved report 13. DMR.,59.100.129.30,332,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:38:27.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,333,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:38:28.000,Approved report 15. Checklists.,59.100.129.30,334,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:39:08.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,335,Chrome,Oliver WADE
+NULL,9,10,2021-12-17 13:39:11.000,Approved the summary report.,59.100.129.30,336,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 13:44:02.000,Approved report 01. Credit Limit Report.,59.100.129.30,337,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 13:44:25.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,338,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 13:45:01.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,339,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 13:45:20.000,Approved report 04. No Show Rooms.,59.100.129.30,340,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:24:09.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,341,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:32:58.000,Approved report 06. Complimentary Room Report.,59.100.129.30,342,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:34:13.000,Approved report 07. Rate Check Report.,59.100.129.30,343,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:34:14.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,344,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:34:23.000,Approved report 08.1. NA16.,59.100.129.30,345,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:34:40.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,346,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:35:24.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,347,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:35:45.000,Approved report 11. CC Surcharge Report.,59.100.129.30,348,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:36:02.000,Approved report 12. DM Float Log.,59.100.129.30,349,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:36:03.000,Approved report 13. DMR.,59.100.129.30,350,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:36:24.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,351,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:36:25.000,Approved report 15. Checklists.,59.100.129.30,352,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 14:36:59.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,353,Chrome,Oliver WADE
+NULL,9,12,2021-12-17 15:09:09.000,Approved the summary report.,59.100.129.30,354,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:09:47.000,Approved report 01. Credit Limit Report.,59.100.129.30,355,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:10:00.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,356,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:11:16.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,357,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:11:19.000,Approved report 04. No Show Rooms.,59.100.129.30,358,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:11:28.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,359,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:11:55.000,Approved report 06. Complimentary Room Report.,59.100.129.30,360,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:12:15.000,Approved report 07. Rate Check Report.,59.100.129.30,361,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:12:18.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,362,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:12:21.000,Approved report 08.1. NA16.,59.100.129.30,363,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:12:42.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,364,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:13:47.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,365,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:14:07.000,Approved report 11. CC Surcharge Report.,59.100.129.30,366,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:14:27.000,Approved report 12. DM Float Log.,59.100.129.30,367,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:14:29.000,Approved report 13. DMR.,59.100.129.30,368,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:14:30.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,369,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:14:35.000,Approved report 15. Checklists.,59.100.129.30,370,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:15:25.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,371,Chrome,Oliver WADE
+NULL,9,14,2021-12-17 15:15:36.000,Approved the summary report.,59.100.129.30,372,Chrome,Oliver WADE
+NULL,24,10,2021-12-17 23:29:15.000,Approved report 01. Credit Limit Report.,59.100.129.30,373,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:18.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,374,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:19.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,375,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:21.000,Approved report 04. No Show Rooms.,59.100.129.30,376,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:26.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,377,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:32.000,Approved report 07. Rate Check Report.,59.100.129.30,378,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:35.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,379,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:50.000,Approved report 08.1. NA16.,59.100.129.30,380,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:29:53.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,381,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:31:54.000,Opened a Ticket for 10. Room Reconciliation Report,59.100.129.30,382,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:32:00.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,383,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:29.000,Commented `Still using old format of HSK Reconciliation prior to ARIEL system introduced. I will follow up to ensure HSK across discussed preferred method` in Report 10. Room Reconciliation Report.,59.100.129.30,384,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:37.000,Approved report 11. CC Surcharge Report.,59.100.129.30,385,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:39.000,Approved report 12. DM Float Log.,59.100.129.30,386,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:41.000,Approved report 13. DMR.,59.100.129.30,387,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:44.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,388,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:52.000,Approved report 15. Checklists.,59.100.129.30,389,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:33:57.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,390,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:34:03.000,Approved report 06. Complimentary Room Report.,59.100.129.30,391,Chrome,Vicky Stasous
+NULL,24,10,2021-12-17 23:34:07.000,Approved the summary report.,59.100.129.30,392,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:34:51.000,Approved report 01. Credit Limit Report.,59.100.129.30,393,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:34:52.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,394,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:34:53.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,395,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:34:54.000,Approved report 04. No Show Rooms.,59.100.129.30,396,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:34:59.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,397,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:00.000,Approved report 06. Complimentary Room Report.,59.100.129.30,398,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:01.000,Approved report 07. Rate Check Report.,59.100.129.30,399,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:02.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,400,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:07.000,Approved report 08.1. NA16.,59.100.129.30,401,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:08.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,402,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:40.000,Commented `New format of HSK Reconciliation required ` in Report 10. Room Reconciliation Report.,59.100.129.30,403,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:35:43.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,404,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:36.000,Opened a Ticket for 10. Room Reconciliation Report,59.100.129.30,405,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:44.000,Approved report 11. CC Surcharge Report.,59.100.129.30,406,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:45.000,Approved report 12. DM Float Log.,59.100.129.30,407,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:45.000,Approved report 13. DMR.,59.100.129.30,408,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:46.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,409,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:51.000,Approved report 15. Checklists.,59.100.129.30,410,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:52.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,411,Chrome,Vicky Stasous
+NULL,24,12,2021-12-17 23:36:53.000,Approved the summary report.,59.100.129.30,412,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:07.000,Approved report 01. Credit Limit Report.,59.100.129.30,413,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:08.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,414,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:10.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,415,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:13.000,Approved report 04. No Show Rooms.,59.100.129.30,416,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:15.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,417,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:17.000,Approved report 06. Complimentary Room Report.,59.100.129.30,418,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:18.000,Approved report 07. Rate Check Report.,59.100.129.30,419,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:23.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,420,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:24.000,Approved report 08.1. NA16.,59.100.129.30,421,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:37:26.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,422,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:32.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,423,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:37.000,Approved report 11. CC Surcharge Report.,59.100.129.30,424,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:38.000,Approved report 12. DM Float Log.,59.100.129.30,425,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:39.000,Approved report 13. DMR.,59.100.129.30,426,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:40.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,427,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:41.000,Approved report 15. Checklists.,59.100.129.30,428,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:45.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,429,Chrome,Vicky Stasous
+NULL,24,14,2021-12-17 23:38:48.000,Approved the summary report.,59.100.129.30,430,Chrome,Vicky Stasous
+NULL,5,15,2021-12-18 04:04:20.000,Created the summary report.,59.100.129.30,431,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:19:14.000,Approved report 01. Credit Limit Report.,59.100.129.30,432,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:19:22.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,433,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:19:43.000,Edited Adjustment and Correction details.,59.100.129.30,434,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:19:56.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,435,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:21:00.000,Edited No Show Rooms details.,59.100.129.30,436,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:21:32.000,Commented `No Show with deposit moved to PM #9010 Rodney McDougall` in Report 04. No Show Rooms.,59.100.129.30,437,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:22:13.000,Commented `42 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,438,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:22:35.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,439,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:22:46.000,Commented `DAF Night: 1` in Report 07. Rate Check Report.,59.100.129.30,440,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:23:38.000,Commented `7 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,441,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:24:05.000,Approved report 08.1. NA16.,59.100.129.30,442,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:24:09.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,443,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:24:13.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,444,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:24:14.000,Approved report 11. CC Surcharge Report.,59.100.129.30,445,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:24:28.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,446,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:25:51.000,"Commented `Total Revenue: $20994 Occupancy: 41% 
+ADR: $174.67` in Report 13. DMR.",59.100.129.30,447,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:26:23.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,448,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:26:24.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,449,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:26:47.000,Approved report 15. Checklists.,59.100.129.30,450,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:26:55.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,451,Chrome,Benjamin Chan
+NULL,5,15,2021-12-18 05:30:10.000,Submitted the summary report.,59.100.129.30,452,Chrome,Benjamin Chan
+NULL,21,16,2021-12-18 05:58:25.000,Created the summary report.,59.100.129.30,453,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:04:47.000,Commented `All Clear. Accor and Accor Plus member. POA accounts covered by credit card + Pre Auth  ` in Report 01. Credit Limit Report.,59.100.129.30,454,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:05:15.000,Edited F.O. Paid Out details.,59.100.129.30,455,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:05:35.000,Commented `Paidout receipt attached` in Report 02. Front Office Paid Out Report.,59.100.129.30,456,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:07:06.000,Edited Adjustment and Correction details.,59.100.129.30,457,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:07:50.000,Edited No Show Rooms details.,59.100.129.30,458,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:09:01.000,Commented `Ticket raised for RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,459,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:09:06.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,460,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:09:21.000,Commented `No comps` in Report 06. Complimentary Room Report.,59.100.129.30,461,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:09:42.000,Commented `All rate are correct` in Report 07. Rate Check Report.,59.100.129.30,462,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:09:51.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,463,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:10:00.000,Approved report 08.1. NA16.,59.100.129.30,464,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:10:24.000,Commented `Please see individual comments ` in Report 08.1. NA16.,59.100.129.30,465,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:11:31.000,Commented `Balance` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,466,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:15:59.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,467,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:16:00.000,Approved report 11. CC Surcharge Report.,59.100.129.30,468,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:16:33.000,Commented `Missing AM shift count` in Report 12. DM Float Log.,59.100.129.30,469,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:18:22.000,Opened a Ticket for 12. DM Float Log,59.100.129.30,470,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:18:33.000,Approved report 13. DMR.,59.100.129.30,471,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:21:43.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,472,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:22:01.000,Commented `No missing dockets charge to FO` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,473,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:25:32.000,Approved report 15. Checklists.,59.100.129.30,474,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:26:57.000,Commented `1 Manual transaction credited by DM` in Report 16. Loyalty Points Audit.,59.100.129.30,475,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:28:21.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,476,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:29:18.000,Commented `Correction forms attached` in Report 03. Adjustment & Corrections.,59.100.129.30,477,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:36:07.000,"Commented `Accor and Accor Plus member. POA accounts covered by credit card + Pre Auth. 
+626-Credit card declining letter sent up. ` in Report 01. Credit Limit Report.",59.100.129.30,478,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:38:18.000,Opened a Ticket for 01. Credit Limit Report,59.100.129.30,479,Chrome,Rolando Vicencio
+NULL,21,16,2021-12-18 06:45:05.000,Submitted the summary report.,59.100.129.30,480,Chrome,Rolando Vicencio
+NULL,5,17,2021-12-19 04:38:44.000,Created the summary report.,59.100.129.30,481,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:40:26.000,Approved report 01. Credit Limit Report.,59.100.129.30,482,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:40:31.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,483,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:40:37.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,484,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:41:15.000,Edited Adjustment and Correction details.,59.100.129.30,485,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:41:16.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,486,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:42:34.000,"Commented `#638965 Nguyen Dinh Dong, #664944 Albion Ioapo, #637594 Nguyen Thi Thu Ha, #638151 Hoang Tien Vu, #639355 Duong Van Hanh & #664617 Anthony Zumbo` in Report 04. No Show Rooms.",59.100.129.30,487,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:42:48.000,Commented `72 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,488,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:43:23.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,489,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:43:30.000,Commented `DAF Night: 1` in Report 07. Rate Check Report.,59.100.129.30,490,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:43:40.000,Edited PM/PX Accounts details.,59.100.129.30,491,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:44:02.000,Commented `8 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,492,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:44:21.000,Approved report 08.1. NA16.,59.100.129.30,493,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:44:23.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,494,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:44:25.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,495,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:44:41.000,Approved report 11. CC Surcharge Report.,59.100.129.30,496,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:45:27.000,Commented `DM Float was found to be $37 down. AM Kitti to follow up with Finance.` in Report 12. DM Float Log.,59.100.129.30,497,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:47:04.000,Opened a Ticket for 12. DM Float Log,59.100.129.30,498,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:47:35.000,"Commented `Total Revenue: $34969
+Occupancy: 53.5%
+ADR: $228.48` in Report 13. DMR.",59.100.129.30,499,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:48:10.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,500,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:48:12.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,501,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:48:28.000,Approved report 15. Checklists.,59.100.129.30,502,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:48:52.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,503,Chrome,Benjamin Chan
+NULL,5,17,2021-12-19 04:48:58.000,Submitted the summary report.,59.100.129.30,504,Chrome,Benjamin Chan
+NULL,22,18,2021-12-19 08:10:00.000,Created the summary report.,59.100.129.30,505,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:28:53.000,Commented `24 Auto Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,506,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:29:29.000,Approved report 15. Checklists.,59.100.129.30,507,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:30:31.000,Commented `9 Docket missing` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,508,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:30:53.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,509,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:31:35.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,510,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:32:05.000,Approved report 11. CC Surcharge Report.,59.100.129.30,511,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:32:22.000,Commented `Missing Report from HSK` in Report 10. Room Reconciliation Report.,59.100.129.30,512,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:33:58.000,Opened a Ticket for 10. Room Reconciliation Report,59.100.129.30,513,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:34:26.000,Commented `No Transaction` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,514,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:35:04.000,Commented `Some of open folio already closed` in Report 08.1. NA16.,59.100.129.30,515,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:35:47.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,516,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:37:23.000,"Commented `Room 221 no rate booking separate from original by staff, Cathy already fixed` in Report 07. Rate Check Report.",59.100.129.30,517,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:38:14.000,Approved report 06. Complimentary Room Report.,59.100.129.30,518,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:38:40.000,Commented `72 hour rest crew room ` in Report 05. Out of Order/ Service Room.,59.100.129.30,519,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:38:53.000,Approved report 04. No Show Rooms.,59.100.129.30,520,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:39:34.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,521,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:39:40.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,522,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:39:43.000,Approved report 01. Credit Limit Report.,59.100.129.30,523,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:53:43.000,Approved report 13. DMR.,59.100.129.30,524,Chrome,Sirikhwn Yodnum
+NULL,22,18,2021-12-19 08:53:52.000,Submitted the summary report.,59.100.129.30,525,Chrome,Sirikhwn Yodnum
+NULL,10,19,2021-12-20 03:32:42.000,Created the summary report.,59.100.129.30,526,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:37:20.000,Approved report 01. Credit Limit Report.,59.100.129.30,527,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:37:22.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,528,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:38:09.000,Edited Adjustment and Correction details.,59.100.129.30,529,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:39:01.000,Commented `All DMs please remind all GSA to prepared adj. paper work on the end of every shift` in Report 03. Adjustment & Corrections.,59.100.129.30,530,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:39:04.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,531,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:40:11.000,Edited Adjustment and Correction details.,59.100.129.30,532,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:40:45.000,Approved report 04. No Show Rooms.,59.100.129.30,533,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:40:56.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,534,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:41:00.000,Approved report 06. Complimentary Room Report.,59.100.129.30,535,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:41:15.000,Approved report 07. Rate Check Report.,59.100.129.30,536,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:41:35.000,"Commented `Credit - 10
+Debit - 3` in Report 08. PM/ PX Accounts.",59.100.129.30,537,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:41:38.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,538,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:42:01.000,Approved report 08.1. NA16.,59.100.129.30,539,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:42:05.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,540,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:44:46.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,541,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:44:50.000,Approved report 11. CC Surcharge Report.,59.100.129.30,542,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:46:15.000,Approved report 12. DM Float Log.,59.100.129.30,543,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 03:50:57.000,Approved report 13. DMR.,59.100.129.30,544,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:01:28.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,545,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:01:30.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,546,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:02:31.000,Approved report 15. Checklists.,59.100.129.30,547,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:03:29.000,Commented `DM's float is down by $35.00 will follow up with DMs` in Report 12. DM Float Log.,59.100.129.30,548,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:04:00.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,549,Chrome,Patrick Padilla
+NULL,10,19,2021-12-20 04:04:39.000,Submitted the summary report.,59.100.129.30,550,Chrome,Patrick Padilla
+NULL,21,20,2021-12-20 04:39:10.000,Created the summary report.,59.100.129.30,551,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:47:33.000,"Commented `Accor & Accor Plus member
+Accounts covered by Credit card + Pre Auth` in Report 01. Credit Limit Report.",59.100.129.30,552,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:47:55.000,Edited F.O. Paid Out details.,59.100.129.30,553,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:48:15.000,Commented `Missing Meg's receipts` in Report 02. Front Office Paid Out Report.,59.100.129.30,554,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:49:22.000,Commented `Ticket raised to follow-up missing Meg's receipts` in Report 02. Front Office Paid Out Report.,59.100.129.30,555,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:51:02.000,Edited Adjustment and Correction details.,59.100.129.30,556,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:51:41.000,Commented `Ticket raised to follow-up Elijah's missing correction forms` in Report 03. Adjustment & Corrections.,59.100.129.30,557,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:52:55.000,Edited No Show Rooms details.,59.100.129.30,558,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:55:25.000,Commented `Ticket raised to RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,559,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:55:31.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,560,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:55:45.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,561,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:56:08.000,Commented `All rates are correct` in Report 07. Rate Check Report.,59.100.129.30,562,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:56:31.000,"Commented `5 DAF Night.
+All rates are correct` in Report 07. Rate Check Report.",59.100.129.30,563,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:56:41.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,564,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:57:04.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,565,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:58:24.000,Commented `Balance` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,566,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:58:29.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,567,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:59:14.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,568,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 04:59:26.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,569,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:00:10.000,Approved report 13. DMR.,59.100.129.30,570,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:03:59.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,571,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:04:17.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,572,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:04:41.000,Commented `No missing dockets charge to FO` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,573,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:05:23.000,Approved report 15. Checklists.,59.100.129.30,574,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 05:06:37.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,575,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 06:18:40.000,Approved report 08.1. NA16.,59.100.129.30,576,Chrome,Rolando Vicencio
+NULL,21,20,2021-12-20 06:19:20.000,Submitted the summary report.,59.100.129.30,577,Chrome,Rolando Vicencio
+NULL,10,21,2021-12-21 04:51:45.000,Created the summary report.,59.100.129.30,578,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:51:58.000,Approved report 01. Credit Limit Report.,59.100.129.30,579,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:51:59.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,580,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:52:09.000,Edited Adjustment and Correction details.,59.100.129.30,581,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:52:49.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,582,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:53:25.000,Approved report 04. No Show Rooms.,59.100.129.30,583,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:53:55.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,584,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:53:58.000,Approved report 06. Complimentary Room Report.,59.100.129.30,585,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:54:12.000,Commented `DAF Night - 0` in Report 07. Rate Check Report.,59.100.129.30,586,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:54:19.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,587,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:54:38.000,"Commented `Credit - 6
+Debit - 3` in Report 08. PM/ PX Accounts.",59.100.129.30,588,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:55:15.000,Approved report 07. Rate Check Report.,59.100.129.30,589,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:55:28.000,Approved report 08.1. NA16.,59.100.129.30,590,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:55:47.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,591,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:56:35.000,Edited Room Reconciliation details.,59.100.129.30,592,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:56:39.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,593,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:56:43.000,Approved report 11. CC Surcharge Report.,59.100.129.30,594,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:58:20.000,Commented `DM's Float is down by $32.00 will be investigated with AM DM` in Report 12. DM Float Log.,59.100.129.30,595,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:58:28.000,Approved report 12. DM Float Log.,59.100.129.30,596,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:59:40.000,"Commented `Occ.% - 15.20%
+ADR -  $147.56
+Total Revenue - $6384.00` in Report 13. DMR.",59.100.129.30,597,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 04:59:42.000,Approved report 13. DMR.,59.100.129.30,598,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 05:00:56.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,599,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 05:00:59.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,600,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 05:01:27.000,Approved report 15. Checklists.,59.100.129.30,601,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 05:01:49.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,602,Chrome,Patrick Padilla
+NULL,10,21,2021-12-21 05:02:44.000,Submitted the summary report.,59.100.129.30,603,Chrome,Patrick Padilla
+NULL,21,22,2021-12-21 06:24:35.000,Created the summary report.,59.100.129.30,604,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:25:37.000,Commented `Unable to do this report as Opera is still down. ` in Report 01. Credit Limit Report.,59.100.129.30,605,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:25:52.000,Commented `No FO Paidout` in Report 02. Front Office Paid Out Report.,59.100.129.30,606,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:33:07.000,Edited Adjustment and Correction details.,59.100.129.30,607,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:36:06.000,"Commented `All FO correction forms attached
+F&B correction missing ` in Report 03. Adjustment & Corrections.",59.100.129.30,608,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:38:58.000,Commented `No No Shows` in Report 04. No Show Rooms.,59.100.129.30,609,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:39:34.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,610,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:40:22.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,611,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:41:37.000,Commented `All rates are correct ` in Report 07. Rate Check Report.,59.100.129.30,612,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:42:28.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,613,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:42:49.000,Edited NA16 details.,59.100.129.30,614,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:43:13.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,615,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:44:23.000,"Commented `4 DAF Night.
+All rates are correct ` in Report 07. Rate Check Report.",59.100.129.30,616,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:44:40.000,Commented `Balance` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,617,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:45:20.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,618,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:45:56.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,619,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:49:07.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,620,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:50:13.000,Approved report 13. DMR.,59.100.129.30,621,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:50:53.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,622,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:51:20.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,623,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:52:23.000,Commented `No missing dockets charge to FO` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,624,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:52:58.000,Approved report 15. Checklists.,59.100.129.30,625,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 06:53:42.000,Commented `No Transactions` in Report 16. Loyalty Points Audit.,59.100.129.30,626,Chrome,Rolando Vicencio
+NULL,21,22,2021-12-21 07:00:31.000,Submitted the summary report.,59.100.129.30,627,Chrome,Rolando Vicencio
+NULL,5,0,2021-12-22 04:23:08.000,Created the summary report.,59.100.129.30,628,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:23:29.000,Created the summary report.,59.100.129.30,629,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:44:02.000,Approved report 01. Credit Limit Report.,59.100.129.30,630,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:44:16.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,631,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:44:54.000,Edited Adjustment and Correction details.,59.100.129.30,632,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:45:56.000,Commented `Missing approval for Sunita` in Report 03. Adjustment & Corrections.,59.100.129.30,633,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:46:03.000,Edited No Show Rooms details.,59.100.129.30,634,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:46:52.000,Commented `No Show with deposit moved to PM #9008 Desmond Tonge` in Report 04. No Show Rooms.,59.100.129.30,635,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:47:34.000,Commented `126 x Leave Rooms & 3 x Show Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,636,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:48:01.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,637,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:48:31.000,Commented `6 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,638,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:48:51.000,Approved report 08.1. NA16.,59.100.129.30,639,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:49:51.000,Commented `1 x Mastercard Transaction of $124.50 appearing on Opera 20/12` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,640,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:49:54.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,641,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:49:55.000,Approved report 11. CC Surcharge Report.,59.100.129.30,642,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:51:24.000,Commented `DM Float was found to be $8.20 short. Follow up with AMs in the morning.` in Report 12. DM Float Log.,59.100.129.30,643,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:52:16.000,Commented `DM Float was found to be $8.20 short. Follow up with AMs in the morning.` in Report 12. DM Float Log.,59.100.129.30,644,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:53:05.000,"Commented `Total Revenue: $6489
+Occupancy: 16.4%
+ADR: $140.43` in Report 13. DMR.",59.100.129.30,645,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:53:16.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,646,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:53:36.000,Approved report 15. Checklists.,59.100.129.30,647,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:53:43.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,648,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:54:36.000,Approved report 06. Complimentary Room Report.,59.100.129.30,649,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:54:41.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,650,Chrome,Benjamin Chan
+NULL,5,24,2021-12-22 04:54:44.000,Submitted the summary report.,59.100.129.30,651,Chrome,Benjamin Chan
+NULL,21,25,2021-12-22 05:09:44.000,Created the summary report.,59.100.129.30,652,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:16:43.000,Commented `Ticket raised to follow-up MOP for  incidentals` in Report 01. Credit Limit Report.,59.100.129.30,653,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:23:50.000,Commented `Ticket raised to follow-up MOP for room 356 for incidentals` in Report 01. Credit Limit Report.,59.100.129.30,654,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:29:38.000,Edited Adjustment and Correction details.,59.100.129.30,655,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:29:42.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,656,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:30:50.000,Commented `Email sent to RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,657,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:31:57.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,658,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:32:35.000,Commented `Crew rooms 72hours resting period ` in Report 05. Out of Order/ Service Room.,59.100.129.30,659,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:32:48.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,660,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:33:07.000,Commented `All rates are correct ` in Report 07. Rate Check Report.,59.100.129.30,661,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:33:12.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,662,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:33:38.000,Commented `Please see individual comments ` in Report 08.1. NA16.,59.100.129.30,663,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:37:21.000,Opened a Ticket for 09. Ogone Deposit Posting Report,59.100.129.30,664,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:37:49.000,Commented `Ticket raised to FIN to follow-up` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,665,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:37:53.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,666,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:40:48.000,Opened a Ticket for 10. Room Reconciliation Report,59.100.129.30,667,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:41:33.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,668,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:41:43.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,669,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:41:53.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,670,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:44:06.000,Approved report 13. DMR.,59.100.129.30,671,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:44:45.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,672,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:45:04.000,Commented `No missing dockets charge to FO` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,673,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:45:52.000,Approved report 15. Checklists.,59.100.129.30,674,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:48:13.000,"Commented `6 Manual transactions.
+5 - credited by DM.
+1 - credited by Events Exec.` in Report 16. Loyalty Points Audit.",59.100.129.30,675,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:49:03.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,676,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:49:21.000,Commented `No  FO paidouts` in Report 02. Front Office Paid Out Report.,59.100.129.30,677,Chrome,Rolando Vicencio
+NULL,21,25,2021-12-22 05:49:33.000,Submitted the summary report.,59.100.129.30,678,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 04:40:27.000,Created the summary report.,59.100.129.30,679,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 04:47:08.000,"Commented `All clear. 
+Airline crew and accounts covered by credit card + pre auth.` in Report 01. Credit Limit Report.",59.100.129.30,680,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 04:47:57.000,Commented `Receipt attached` in Report 02. Front Office Paid Out Report.,59.100.129.30,681,Chrome,Rolando Vicencio
+NULL,5,27,2021-12-23 05:09:52.000,Created the summary report.,59.100.129.30,682,Chrome,Benjamin Chan
+NULL,21,26,2021-12-23 05:12:19.000,Edited Adjustment and Correction details.,59.100.129.30,683,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:12:36.000,Commented `All correction forms attached` in Report 03. Adjustment & Corrections.,59.100.129.30,684,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:13:36.000,Edited No Show Rooms details.,59.100.129.30,685,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:13:42.000,Edited No Show Rooms details.,59.100.129.30,686,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:13:50.000,Approved report 04. No Show Rooms.,59.100.129.30,687,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:14:31.000,Commented `Email sent to RES to follow ` in Report 04. No Show Rooms.,59.100.129.30,688,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:15:05.000,Commented `Crew rooms 72 hours resting period ` in Report 05. Out of Order/ Service Room.,59.100.129.30,689,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:15:18.000,Commented `No Comps` in Report 06. Complimentary Room Report.,59.100.129.30,690,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:15:34.000,Commented `All rates are correct` in Report 07. Rate Check Report.,59.100.129.30,691,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:15:38.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,692,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:16:01.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,693,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:17:02.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,694,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:17:09.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,695,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:17:16.000,Approved report 11. CC Surcharge Report.,59.100.129.30,696,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:18:14.000,Commented `With Change order` in Report 12. DM Float Log.,59.100.129.30,697,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:18:55.000,Approved report 13. DMR.,59.100.129.30,698,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:19:56.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,699,Chrome,Rolando Vicencio
+NULL,21,26,2021-12-23 05:20:00.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,700,Chrome,Rolando Vicencio
+NULL,5,27,2021-12-23 05:20:25.000,Approved report 01. Credit Limit Report.,59.100.129.30,701,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:20:30.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,702,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:20:38.000,Edited Adjustment and Correction details.,59.100.129.30,703,Chrome,Benjamin Chan
+NULL,21,26,2021-12-23 05:20:53.000,Approved report 15. Checklists.,59.100.129.30,704,Chrome,Rolando Vicencio
+NULL,5,27,2021-12-23 05:21:20.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,705,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:21:40.000,Commented `#670325 Mark Dinardo` in Report 04. No Show Rooms.,59.100.129.30,706,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:21:50.000,Commented `99 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,707,Chrome,Benjamin Chan
+NULL,21,26,2021-12-23 05:22:05.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,708,Chrome,Rolando Vicencio
+NULL,5,27,2021-12-23 05:22:08.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,709,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:22:18.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,710,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:22:23.000,Edited PM/PX Accounts details.,59.100.129.30,711,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:22:42.000,Commented `5 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,712,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:22:58.000,Approved report 08.1. NA16.,59.100.129.30,713,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:23:00.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,714,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:23:01.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,715,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:23:02.000,Approved report 11. CC Surcharge Report.,59.100.129.30,716,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:23:12.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,717,Chrome,Benjamin Chan
+NULL,21,26,2021-12-23 05:23:24.000,Submitted the summary report.,59.100.129.30,718,Chrome,Rolando Vicencio
+NULL,5,27,2021-12-23 05:23:57.000,"Commented `Total Revenue: $8680
+Occupancy: 26.6%
+ADR: $113.79` in Report 13. DMR.",59.100.129.30,719,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:24:01.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,720,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:24:38.000,Approved report 15. Checklists.,59.100.129.30,721,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:26:21.000,Commented `2 x Manual Transactions: 1 x F&B Dining & 1 x Points did not get credited by the system automatically` in Report 16. Loyalty Points Audit.,59.100.129.30,722,Chrome,Benjamin Chan
+NULL,5,27,2021-12-23 05:26:30.000,Submitted the summary report.,59.100.129.30,723,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:26:30.000,Created the summary report.,59.100.129.30,724,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:38:35.000,Approved report 01. Credit Limit Report.,59.100.129.30,725,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:39:49.000,Commented `1 x Refund of $8 to #902 Kotchanipa Wongrod due to overcharging` in Report 02. Front Office Paid Out Report.,59.100.129.30,726,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:41:25.000,Commented `1 x General Ledger Transfer of $649.71 by Finance Yuna for Le Club commission Nov 2021` in Report 03. Adjustment & Corrections.,59.100.129.30,727,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:41:58.000,Commented `#649042 Ian McLauchlan` in Report 04. No Show Rooms.,59.100.129.30,728,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:42:24.000,Commented `79 x Leave Rooms` in Report 05. Out of Order/ Service Room.,59.100.129.30,729,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:42:52.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,730,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:43:02.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,731,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:43:08.000,Edited PM/PX Accounts details.,59.100.129.30,732,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:43:25.000,Commented `6 x Credit & 3 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,733,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:43:31.000,Approved report 08.1. NA16.,59.100.129.30,734,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:45:25.000,Commented `1 x Manual Posting of Visa $238.50 by Patrick as the payment was not posted in Opera on 16/12` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,735,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:45:31.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,736,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:45:32.000,Approved report 11. CC Surcharge Report.,59.100.129.30,737,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:45:38.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,738,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:47:17.000,"Commented `Total Revenue: $10394
+Occupancy: 26.2%
+ADR: $139.24` in Report 13. DMR.",59.100.129.30,739,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:47:22.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,740,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:47:23.000,Approved report 15. Checklists.,59.100.129.30,741,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:47:29.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,742,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:48:19.000,Commented `1 x Manual Posting of Visa $238.50 by Patrick as the payment was not posted in Opera on 16/12. Please see attached.` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,743,Chrome,Benjamin Chan
+NULL,5,28,2021-12-24 03:48:22.000,Submitted the summary report.,59.100.129.30,744,Chrome,Benjamin Chan
+NULL,21,29,2021-12-24 05:31:43.000,Created the summary report.,59.100.129.30,745,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:48:26.000,Commented `Raised ticket to follow-up` in Report 01. Credit Limit Report.,59.100.129.30,746,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:50:31.000,Opened a Ticket for 01. Credit Limit Report,59.100.129.30,747,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:51:22.000,Commented `Receipt attached ` in Report 02. Front Office Paid Out Report.,59.100.129.30,748,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:52:23.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,749,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:53:09.000,Edited No Show Rooms details.,59.100.129.30,750,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:53:15.000,Approved report 04. No Show Rooms.,59.100.129.30,751,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:54:15.000,Commented `Email sent to RES to follow-up` in Report 04. No Show Rooms.,59.100.129.30,752,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:54:19.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,753,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:55:04.000,Commented `Comp a per Richard Holt. Form to follow ` in Report 06. Complimentary Room Report.,59.100.129.30,754,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:56:30.000,Commented `Rates all correct` in Report 07. Rate Check Report.,59.100.129.30,755,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:56:34.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,756,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:56:55.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,757,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:57:27.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,758,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:57:35.000,Commented `Balance` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,759,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:57:39.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,760,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:58:10.000,Approved report 11. CC Surcharge Report.,59.100.129.30,761,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:58:19.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,762,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:58:22.000,Approved report 12. DM Float Log.,59.100.129.30,763,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 05:58:27.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,764,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:07:21.000,Approved report 13. DMR.,59.100.129.30,765,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:08:11.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,766,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:08:34.000,Commented `1 docket charge to FO missing` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,767,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:09:15.000,Commented `1 docket charge to FO missing` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,768,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:09:19.000,Approved report 15. Checklists.,59.100.129.30,769,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:10:20.000,"Commented `4 manual transactions, credited by Conferencing` in Report 16. Loyalty Points Audit.",59.100.129.30,770,Chrome,Rolando Vicencio
+NULL,21,29,2021-12-24 06:11:46.000,Submitted the summary report.,59.100.129.30,771,Chrome,Rolando Vicencio
+NULL,5,30,2021-12-25 04:50:23.000,Created the summary report.,59.100.129.30,772,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:22:41.000,Approved report 01. Credit Limit Report.,59.100.129.30,773,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:23:48.000,Commented `Refund of $30 for Breakfast to #620 Stephen McShane` in Report 02. Front Office Paid Out Report.,59.100.129.30,774,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:24:05.000,Edited Adjustment and Correction details.,59.100.129.30,775,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:25:15.000,Commented `1 x General Ledger Transfer of $184.80 by Finance Yuna for Giftcard Management Fee Nov 2021` in Report 03. Adjustment & Corrections.,59.100.129.30,776,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:25:27.000,Commented `Nil` in Report 04. No Show Rooms.,59.100.129.30,777,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:26:35.000,Commented `100 x Leave Rooms & 1 x Oth` in Report 05. Out of Order/ Service Room.,59.100.129.30,778,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:26:40.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,779,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:27:06.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,780,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:27:14.000,Edited PM/PX Accounts details.,59.100.129.30,781,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:27:33.000,Commented `5 x Credit & 4 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,782,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:27:36.000,Approved report 08.1. NA16.,59.100.129.30,783,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:27:54.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,784,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:28:32.000,Commented `1 x Manual Visa Refund of $216.30 by Finance Yuna` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,785,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:28:35.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,786,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:28:36.000,Approved report 11. CC Surcharge Report.,59.100.129.30,787,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:28:43.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,788,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:29:27.000,"Commented `Total Revenue: $9662
+Occupancy: 18.8%
+ADR: $176.47` in Report 13. DMR.",59.100.129.30,789,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:30:26.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,790,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:30:31.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,791,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:30:32.000,Approved report 15. Checklists.,59.100.129.30,792,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:30:41.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,793,Chrome,Benjamin Chan
+NULL,5,30,2021-12-25 05:31:21.000,Submitted the summary report.,59.100.129.30,794,Chrome,Benjamin Chan
+NULL,22,31,2021-12-25 08:05:02.000,Created the summary report.,59.100.129.30,795,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:05:59.000,Commented `25 Auto Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,796,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:09:06.000,Approved report 15. Checklists.,59.100.129.30,797,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:09:58.000,Commented `No Docket missing` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,798,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:10:27.000,Approved report 13. DMR.,59.100.129.30,799,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:11:16.000,Approved report 11. CC Surcharge Report.,59.100.129.30,800,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:11:24.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,801,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:11:24.000,Disapproved report 10. Room Reconciliation Report.,59.100.129.30,802,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:11:26.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,803,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:13:07.000,Commented `Manual posting from Yuna` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,804,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:13:32.000,Approved report 08.1. NA16.,59.100.129.30,805,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:14:47.000,"Commented `11 only ,1 already closed` in Report 08.1. NA16.",59.100.129.30,806,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:14:52.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,807,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:14:58.000,Approved report 07. Rate Check Report.,59.100.129.30,808,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:15:22.000,Commented `7 DAF Night ARR on 24th Dec` in Report 07. Rate Check Report.,59.100.129.30,809,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:15:46.000,Commented `Comp form need to follow up` in Report 06. Complimentary Room Report.,59.100.129.30,810,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:15:49.000,Approved report 06. Complimentary Room Report.,59.100.129.30,811,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:18:22.000,Commented `72 hours rest room form crew check out and block for Iso guest` in Report 05. Out of Order/ Service Room.,59.100.129.30,812,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:18:48.000,Commented `No Deposit email Res` in Report 04. No Show Rooms.,59.100.129.30,813,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:19:53.000,"Commented `Missing 2,follow up cashier number 224,53` in Report 03. Adjustment & Corrections.",59.100.129.30,814,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:20:56.000,Opened a Ticket for 03. Adjustment & Corrections,59.100.129.30,815,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:21:15.000,Commented `No front office paid out` in Report 02. Front Office Paid Out Report.,59.100.129.30,816,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:21:18.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,817,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:21:53.000,Commented `All clear` in Report 01. Credit Limit Report.,59.100.129.30,818,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:22:56.000,Approved report 12. DM Float Log.,59.100.129.30,819,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:23:04.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,820,Chrome,Sirikhwn Yodnum
+NULL,22,31,2021-12-25 08:23:14.000,Submitted the summary report.,59.100.129.30,821,Chrome,Sirikhwn Yodnum
+NULL,5,32,2021-12-26 05:34:00.000,Created the summary report.,59.100.129.30,822,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:45:55.000,Approved report 01. Credit Limit Report.,59.100.129.30,823,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:46:06.000,Commented `Nil` in Report 02. Front Office Paid Out Report.,59.100.129.30,824,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:50:21.000,Commented `No manual adjustment` in Report 03. Adjustment & Corrections.,59.100.129.30,825,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:50:39.000,Commented `#667589 James Presland` in Report 04. No Show Rooms.,59.100.129.30,826,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:50:54.000,Commented `#667586 James Presland` in Report 04. No Show Rooms.,59.100.129.30,827,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:51:40.000,"Commented `91 x Leave Rooms, 1 x Storage room & 1 x Other` in Report 05. Out of Order/ Service Room.",59.100.129.30,828,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:51:46.000,Commented `Nil` in Report 06. Complimentary Room Report.,59.100.129.30,829,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:52:11.000,Commented `DAF Night: Nil` in Report 07. Rate Check Report.,59.100.129.30,830,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:52:18.000,Edited PM/PX Accounts details.,59.100.129.30,831,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:52:24.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,832,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:53:47.000,Commented `5 x Credit & 4 x Debit` in Report 08. PM/ PX Accounts.,59.100.129.30,833,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:57:12.000,Approved report 08.1. NA16.,59.100.129.30,834,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:57:27.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,835,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:57:33.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,836,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:57:36.000,Approved report 11. CC Surcharge Report.,59.100.129.30,837,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:57:46.000,Commented `$2000 in balance` in Report 12. DM Float Log.,59.100.129.30,838,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:59:20.000,"Commented `Total Revenue: $12686
+Occupancy: 21.1%
+ADR: $204.85` in Report 13. DMR.",59.100.129.30,839,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:59:42.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,840,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:59:50.000,Approved report 15. Checklists.,59.100.129.30,841,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 05:59:59.000,Commented `No Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,842,Chrome,Benjamin Chan
+NULL,5,32,2021-12-26 06:00:13.000,Submitted the summary report.,59.100.129.30,843,Chrome,Benjamin Chan
+NULL,22,33,2021-12-26 06:27:12.000,Created the summary report.,59.100.129.30,844,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 07:58:58.000,Commented `23- Auto Trasaction` in Report 16. Loyalty Points Audit.,59.100.129.30,845,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 07:59:39.000,Approved report 15. Checklists.,59.100.129.30,846,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:01:39.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,847,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:02:03.000,Approved report 13. DMR.,59.100.129.30,848,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:02:32.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,849,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:02:42.000,Approved report 11. CC Surcharge Report.,59.100.129.30,850,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:02:46.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,851,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:02:51.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,852,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:03:01.000,Commented `Balance` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,853,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:03:09.000,Commented `Balance` in Report 10. Room Reconciliation Report.,59.100.129.30,854,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:06:31.000,Commented `Need to follow up` in Report 08.1. NA16.,59.100.129.30,855,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:07:05.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,856,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:07:38.000,Commented `10- DAF Night` in Report 07. Rate Check Report.,59.100.129.30,857,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:08:12.000,Commented `Comp Form still waiting from RES` in Report 06. Complimentary Room Report.,59.100.129.30,858,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:09:02.000,Commented `72 hours rest room from crew check out room` in Report 05. Out of Order/ Service Room.,59.100.129.30,859,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:09:17.000,Commented `Email res` in Report 04. No Show Rooms.,59.100.129.30,860,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:09:39.000,Commented `No missing` in Report 03. Adjustment & Corrections.,59.100.129.30,861,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:10:18.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,862,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:10:20.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,863,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:10:37.000,Commented `No Paid out from front office` in Report 02. Front Office Paid Out Report.,59.100.129.30,864,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:10:47.000,Commented `All clear` in Report 01. Credit Limit Report.,59.100.129.30,865,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:11:32.000,Commented `No missing docket` in Report 14. F & B Comp. & Void Audit.,59.100.129.30,866,Chrome,Sirikhwn Yodnum
+NULL,22,33,2021-12-26 08:11:59.000,Submitted the summary report.,59.100.129.30,867,Chrome,Sirikhwn Yodnum
+NULL,10,34,2021-12-27 05:21:04.000,Created the summary report.,59.100.129.30,868,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:21:41.000,Approved report 01. Credit Limit Report.,59.100.129.30,869,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:21:43.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,870,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:21:54.000,Edited Adjustment and Correction details.,59.100.129.30,871,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:22:49.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,872,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:22:51.000,Approved report 04. No Show Rooms.,59.100.129.30,873,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:22:53.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,874,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:22:56.000,Approved report 06. Complimentary Room Report.,59.100.129.30,875,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:23:36.000,Approved report 07. Rate Check Report.,59.100.129.30,876,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:23:45.000,Commented `DAF Night - 0 ` in Report 07. Rate Check Report.,59.100.129.30,877,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:25:10.000,"Commented `Credit - 4
+Debit - 7` in Report 08. PM/ PX Accounts.",59.100.129.30,878,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:25:16.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,879,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:25:36.000,Approved report 08.1. NA16.,59.100.129.30,880,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:25:39.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,881,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:26:15.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,882,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:26:22.000,Approved report 11. CC Surcharge Report.,59.100.129.30,883,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:26:48.000,Approved report 12. DM Float Log.,59.100.129.30,884,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:27:27.000,"Commented `The total AM""s Float - $2000.00` in Report 12. DM Float Log.",59.100.129.30,885,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:27:53.000,"Commented `Occ.% - %
+ADR - 
+Total Revenue - 
+` in Report 13. DMR.",59.100.129.30,886,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:27:57.000,"Commented `Occ.% - %
+ADR - 
+Total Revenue - 
+` in Report 13. DMR.",59.100.129.30,887,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:28:36.000,"Commented `Occ.% - 28.1%
+ADR - 176.55
+Total Revenue - 15,082.00
+` in Report 13. DMR.",59.100.129.30,888,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:28:39.000,Approved report 13. DMR.,59.100.129.30,889,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:30:45.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,890,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:30:46.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,891,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:31:13.000,Approved report 15. Checklists.,59.100.129.30,892,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:31:44.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,893,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:32:05.000,Commented `No member's points processed today ` in Report 16. Loyalty Points Audit.,59.100.129.30,894,Chrome,Patrick Padilla
+NULL,10,34,2021-12-27 05:32:22.000,Submitted the summary report.,59.100.129.30,895,Chrome,Patrick Padilla
+NULL,22,35,2021-12-27 07:05:02.000,Created the summary report.,59.100.129.30,896,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:08:23.000,Commented `25 Auto Transaction` in Report 16. Loyalty Points Audit.,59.100.129.30,897,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:09:32.000,Approved report 15. Checklists.,59.100.129.30,898,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:12:49.000,Approved report 13. DMR.,59.100.129.30,899,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:12:51.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,900,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:13:01.000,Commented `Balance` in Report 12. DM Float Log.,59.100.129.30,901,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:47:22.000,Commented `Balance` in Report 11. CC Surcharge Report.,59.100.129.30,902,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:47:53.000,Commented `Balance` in Report 10. Room Reconciliation Report.,59.100.129.30,903,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:48:10.000,Commented `No Transaction` in Report 09. Ogone Deposit Posting Report.,59.100.129.30,904,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:54:58.000,Approved report 08.1. NA16.,59.100.129.30,905,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:55:09.000,Commented `To follow up` in Report 08.1. NA16.,59.100.129.30,906,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:55:21.000,Commented `2- DAF Night` in Report 08. PM/ PX Accounts.,59.100.129.30,907,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:55:57.000,Disapproved report 08. PM/ PX Accounts.,59.100.129.30,908,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 07:56:29.000,Commented `done` in Report 08. PM/ PX Accounts.,59.100.129.30,909,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:02:44.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,910,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:02:55.000,Commented `2 DAF Night` in Report 07. Rate Check Report.,59.100.129.30,911,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:03:31.000,Commented `Still waiting for Comp form` in Report 06. Complimentary Room Report.,59.100.129.30,912,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:07:06.000,Opened a Ticket for 06. Complimentary Room Report,59.100.129.30,913,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:10:07.000,Commented `72 hour rest crew check out room` in Report 05. Out of Order/ Service Room.,59.100.129.30,914,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:10:23.000,Edited No Show Rooms details.,59.100.129.30,915,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:10:35.000,Commented `Email to res` in Report 04. No Show Rooms.,59.100.129.30,916,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:11:00.000,Commented `Completed` in Report 03. Adjustment & Corrections.,59.100.129.30,917,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:11:47.000,Commented `No Front office paid out` in Report 02. Front Office Paid Out Report.,59.100.129.30,918,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:11:54.000,Commented `All Clear` in Report 01. Credit Limit Report.,59.100.129.30,919,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:11:56.000,Approved report 01. Credit Limit Report.,59.100.129.30,920,Chrome,Sirikhwn Yodnum
+NULL,22,35,2021-12-27 08:12:24.000,Submitted the summary report.,59.100.129.30,921,Chrome,Sirikhwn Yodnum
+NULL,19,16,2021-12-27 08:20:48.000,Approved report 01. Credit Limit Report.,59.100.129.30,922,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:20:49.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,923,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:20:53.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,924,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:20:55.000,Approved report 04. No Show Rooms.,59.100.129.30,925,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:20:57.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,926,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:20:59.000,Approved report 06. Complimentary Room Report.,59.100.129.30,927,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:01.000,Approved report 07. Rate Check Report.,59.100.129.30,928,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:04.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,929,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:07.000,Approved report 08.1. NA16.,59.100.129.30,930,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:10.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,931,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:12.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,932,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:21:13.000,Approved report 11. CC Surcharge Report.,59.100.129.30,933,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:22:57.000,Approved report 12. DM Float Log.,59.100.129.30,934,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:23:00.000,Approved report 13. DMR.,59.100.129.30,935,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:23:01.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,936,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:23:05.000,Approved report 15. Checklists.,59.100.129.30,937,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:23:06.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,938,Chrome,Laura Beck
+NULL,19,16,2021-12-27 08:23:11.000,Approved the summary report.,59.100.129.30,939,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:28.000,Approved report 01. Credit Limit Report.,59.100.129.30,940,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:29.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,941,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:31.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,942,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:34.000,Approved report 04. No Show Rooms.,59.100.129.30,943,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:36.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,944,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:37.000,Approved report 06. Complimentary Room Report.,59.100.129.30,945,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:55:40.000,Approved report 07. Rate Check Report.,59.100.129.30,946,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:04.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,947,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:07.000,Approved report 08.1. NA16.,59.100.129.30,948,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:14.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,949,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:15.000,Approved report 11. CC Surcharge Report.,59.100.129.30,950,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:18.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,951,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:20.000,Approved report 12. DM Float Log.,59.100.129.30,952,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:22.000,Approved report 13. DMR.,59.100.129.30,953,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:30.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,954,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:32.000,Approved report 15. Checklists.,59.100.129.30,955,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:56:34.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,956,Chrome,Laura Beck
+NULL,19,18,2021-12-27 08:58:42.000,Approved the summary report.,59.100.129.30,957,Chrome,Laura Beck
+NULL,10,34,2021-12-28 04:02:10.000,Opened a Ticket for 13. DMR,59.100.129.30,958,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:08:08.000,Created the summary report.,59.100.129.30,959,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:08:48.000,Approved report 01. Credit Limit Report.,59.100.129.30,960,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:09:28.000,Approved report 02. Front Office Paid Out Report.,59.100.129.30,961,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:09:45.000,Edited Adjustment and Correction details.,59.100.129.30,962,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:09:46.000,Approved report 03. Adjustment & Corrections.,59.100.129.30,963,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:10:46.000,Edited No Show Rooms details.,59.100.129.30,964,Chrome,Patrick Padilla
+NULL,21,37,2021-12-28 05:13:39.000,Created the summary report.,59.100.129.30,965,Chrome,Rolando Vicencio
+NULL,10,36,2021-12-28 05:13:51.000,"Commented `No Show with Deposit #9011 - 620370 - Jerrold Ellingson - C/O: 
+ 06/01/22 - $2164.80 - This account has been flagged with reservation` in Report 04. No Show Rooms.",59.100.129.30,966,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:14:49.000,Opened a Ticket for 04. No Show Rooms,59.100.129.30,967,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:16:02.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,968,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:16:05.000,Approved report 04. No Show Rooms.,59.100.129.30,969,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:18:29.000,Approved report 06. Complimentary Room Report.,59.100.129.30,970,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:18:54.000,Commented `DAF Night - 0` in Report 07. Rate Check Report.,59.100.129.30,971,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:18:55.000,Approved report 07. Rate Check Report.,59.100.129.30,972,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:20:47.000,"Commented `Credit - 8
+Debit - 4` in Report 08. PM/ PX Accounts.",59.100.129.30,973,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:20:57.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,974,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:21:21.000,Approved report 08.1. NA16.,59.100.129.30,975,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:21:23.000,Approved report 09. Ogone Deposit Posting Report.,59.100.129.30,976,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:21:59.000,Approved report 10. Room Reconciliation Report.,59.100.129.30,977,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:22:04.000,Approved report 11. CC Surcharge Report.,59.100.129.30,978,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:22:42.000,"Commented `The total AM""s Float - $2000.00` in Report 12. DM Float Log.",59.100.129.30,979,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:22:58.000,Approved report 12. DM Float Log.,59.100.129.30,980,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:23:15.000,Commented `Capture Rate% - 1.82%	` in Report 11. CC Surcharge Report.,59.100.129.30,981,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:24:16.000,"Commented `Occ.% - 24.2%
+ADR - 161.91
+Total Revenue - 11,167
+` in Report 13. DMR.",59.100.129.30,982,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:24:19.000,Approved report 13. DMR.,59.100.129.30,983,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:25:46.000,Edited F&B Comp. & Void Audit details.,59.100.129.30,984,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:25:48.000,Approved report 14. F & B Comp. & Void Audit.,59.100.129.30,985,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:26:16.000,Approved report 15. Checklists.,59.100.129.30,986,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:27:23.000,Approved report 16. Loyalty Points Audit.,59.100.129.30,987,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:28:03.000,Commented `There are no member's points processed today ` in Report 16. Loyalty Points Audit.,59.100.129.30,988,Chrome,Patrick Padilla
+NULL,10,36,2021-12-28 05:28:49.000,Submitted the summary report.,59.100.129.30,989,Chrome,Patrick Padilla
+NULL,21,37,2021-12-28 05:36:13.000,"Commented `Accounts covered by credit card + pre auth
+ISO rooms - RO + meals CL  ` in Report 01. Credit Limit Report.",59.100.129.30,990,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:36:33.000,Commented `No FO Paidout` in Report 02. Front Office Paid Out Report.,59.100.129.30,991,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:37:10.000,Commented `No missing correction forms` in Report 03. Adjustment & Corrections.,59.100.129.30,992,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:38:09.000,Edited No Show Rooms details.,59.100.129.30,993,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:38:21.000,Edited Adjustment and Correction details.,59.100.129.30,994,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:39:23.000,Approved report 05. Out of Order/ Service Room.,59.100.129.30,995,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:42:27.000,Edited Complimentary Room details.,59.100.129.30,996,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:42:51.000,Commented `Ticket raised to follow up` in Report 06. Complimentary Room Report.,59.100.129.30,997,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:43:26.000,Commented `All rates are correct` in Report 07. Rate Check Report.,59.100.129.30,998,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:43:30.000,Approved report 08. PM/ PX Accounts.,59.100.129.30,999,Chrome,Rolando Vicencio
+NULL,21,37,2021-12-28 05:43:53.000,Commented `Please see individual comments` in Report 08.1. NA16.,59.100.129.30,1000,Chrome,Rolando Vicencio
